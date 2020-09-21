@@ -98,7 +98,8 @@ analytics:
 author:
   name             : "DONGUK SUNG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 프로필 이미지
-  bio              : "대학교에서 공부하고 있는 개발자입니다. " #자신(이 블로그)에 대한 소개 적기
+  bio              : "대학에서 개발공부 하고있는
+   학생입니다. " #자신(이 블로그)에 대한 소개 적기
   location         : "Republic of Korea"
   email            : "hodoonahmoo@gmail.com"
   links:
