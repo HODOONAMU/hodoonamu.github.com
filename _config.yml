@@ -21,10 +21,10 @@ title_separator          : "-" # 타이츨 사이 구분자 <title>Welcome to je
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SUNG DONG UK" # 맨 하단 이름 찍히는 영역
 description              : "JAVA와 Python을 공부하고 기록하는 블로그" #Meta 태그에 들어가는 영역
-url                      : "https://hodoonamu.github.io/" #GitBlog 호스트 주소
+url                      : "https://hodoonahmoo.github.io/" #GitBlog 호스트 주소
   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog" url 뒤에 /blog를 붙이고 싶을 시 사용
-repository               : "HODOONAMU/hodoonamu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "HODOONAHMOO/hodoonahmoo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" 홈페이지 기본 티저 이미지
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" 타이틀 옆에 작게 들어갈 이미지
 masthead_title           : "대학생 개발자 Blog" # overrides the website title displayed in the masthead, use " " for no title 홈페이지 최 상단에 들어갈 타이틀
@@ -35,7 +35,7 @@ words_per_minute         : 200 # 해당 포스트를 읽는데 걸리는 시간�
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : hodoonamu # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : hodoonahmoo # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -100,23 +100,23 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 프로필 이미지
   bio              : "I am an **amazing** person." #자신(이 블로그)에 대한 소개 적기
   location         : "Republic of Korea"
-  email            : "yunhee2007@gmail.com"
+  email            : "hodoonahmoo@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: yunhee2007@gmail.com
+      #url: hodoonahmoo@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "http://hodoonamu.com"
+      # url: "http://hodoonahmoo.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/hodoonamu"
+      # url: "https://github.com/hodoonahmoo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -126,7 +126,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: yunhee2007@gmail.com
+      url: hodoonahmoo@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -135,7 +135,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/hodoonamu"
+      url: "https://github.com/hodoonahmoo"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
