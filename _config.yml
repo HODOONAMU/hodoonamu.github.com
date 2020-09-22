@@ -20,7 +20,7 @@ title                    : "대학생 개발자" # Meta 태그에 들어가는 �
 title_separator          : "-" # 타이츨 사이 구분자 <title>Welcome to jekyll | Minimal Mistakes</title> 해당 형식으로 들어간다.
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DONGUK SUNG" # 맨 하단 이름 찍히는 영역
-description              : "JAVA와 Python을 공부하고 기록하는 블로그" #Meta 태그에 들어가는 영역
+description              : "Python 공부하는 블로그" #Meta 태그에 들어가는 영역
 url                      : "https://hodoonahmoo.github.io/" #GitBlog 호스트 주소
   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog" url 뒤에 /blog를 붙이고 싶을 시 사용
@@ -98,8 +98,7 @@ analytics:
 author:
   name             : "DONGUK SUNG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 프로필 이미지
-  bio              : "대학에서 개발공부 하고있는
-   학생입니다. " #자신(이 블로그)에 대한 소개 적기
+  bio              : "삐빅 학생입니다.. " #자신(이 블로그)에 대한 소개 적기
   location         : "Republic of Korea"
   email            : "hodoonahmoo@gmail.com"
   links:
