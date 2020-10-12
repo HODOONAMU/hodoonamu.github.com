@@ -32,9 +32,10 @@ masthead_title           : "대학생 개발자 Blog" # overrides the website ti
 words_per_minute         : 200 # 해당 포스트를 읽는데 걸리는 시간을 계산하기 위해 대략 분당 읽는 수가 몇 글자가 될지 적는 공간
 
 #댓글 관련 부분
-layout: default
-comments: true
 
+comments:
+  layout: default
+  comments: true
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : HodooNahmoo # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
