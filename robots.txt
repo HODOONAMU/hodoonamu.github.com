@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hodoonamu.github.io/sitemap.xml
+Sitemap: https://hodoonahmoo.github.io/sitemap.xml
