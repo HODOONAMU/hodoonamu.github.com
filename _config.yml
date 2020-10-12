@@ -34,8 +34,6 @@ words_per_minute         : 200 # 해당 포스트를 읽는데 걸리는 시간�
 #댓글 관련 부분
 
 comments:
-  layout: default
-  comments: true
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : HodooNahmoo # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
