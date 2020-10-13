@@ -6,6 +6,6 @@ author_profile: true
 ---
 title: "Python"
 layout: categories
-permalink: /categories/Python
+permalink: /categories/Python/
 author_profile: true
 ---
