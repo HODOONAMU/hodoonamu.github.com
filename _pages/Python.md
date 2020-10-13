@@ -1,7 +1,7 @@
 ---
-title: "Pyhton"
-permalink: /Categories/Python/
-layout: Category
+title: Pyhton
+permalink: /categories/Python/
+layout: category
 author_profile: ture
 taxonomy: Python
 ---
