@@ -100,7 +100,7 @@ author:
   name             : "DONGUK SUNG"
   avatar           : "/assets/images/profile/photo.jpg" # 프로필 이미지
                       # path of avatar image, e.g.
-  bio              : "삐빅 학생입니다.. " #자신(이 블로그)에 대한 소개 적기
+  bio              : "공부한 일본어와 프로그래밍 기술을 기록하는 블로그입니다. 잘못된 부분의 조언 환영합니다!" #자신(이 블로그)에 대한 소개 적기
   location         : "Republic of Korea"
   email            : "hodoonahmoo@gmail.com"
   links:
