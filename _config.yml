@@ -25,7 +25,7 @@ url                      : "https://hodoonahmoo.github.io/" #GitBlog 호스트 �
 
   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog" url 뒤에 /blog를 붙이고 싶 을 시 사용
-repository               : "HODOONAHMOO/hodoonahmoo.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "HODOONAHMOO/HODOONAHMOO.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" 홈페이지 기본 티저 이미지
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" 타이틀 옆에 작게 들어갈 이미지
 masthead_title           : "   코딩할 수 있다고 말하고 싶어요" # overrides the website title displayed in the masthead, use " " for no title 홈페이지 최 상단에 들어갈 타이틀
