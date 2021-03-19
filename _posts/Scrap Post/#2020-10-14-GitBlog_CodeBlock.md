@@ -2,7 +2,7 @@
 title: GitBlog 코드블럭 사용하기
 
 categories:
-  -Blog
+  Blog
 
 toc: true
 toc_sticky: true
