@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "코딩 일기" # Meta 태그에 들어가는 영역 , masthead_title
+title                    : "코딩 블로그" # Meta 태그에 들어가는 영역 , masthead_title
 title_separator          : "-" # 타이츨 사이 구분자 <title>Welcome to jekyll | Minimal Mistakes</title> 해당 형식으로 들어간다.
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "DONGUK SUNG" # 맨 하단 이름 찍히는 영역
@@ -28,7 +28,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog" url 뒤에 /
 repository               : "HODOONAHMOO/HODOONAHMOO.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" 홈페이지 기본 티저 이미지
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png" 타이틀 옆에 작게 들어갈 이미지
-masthead_title           : "코딩 일기" # overrides the website title displayed in the masthead, use " " for no title 홈페이지 최 상단에 들어갈 타이틀
+masthead_title           : "코딩 블로그" # overrides the website title displayed in the masthead, use " " for no title 홈페이지 최 상단에 들어갈 타이틀
 
 # breadcrumbs            : false # true, false (default) 브레드크럼 사용 여부 true, false (default), _data/ui-text.yml에 다국어 지원 가능하다.
 words_per_minute         : 200 # 해당 포스트를 읽는데 걸리는 시간을 계산하기 위해 대략 분당 읽는 수가 몇 글자가 될지 적는 공간
